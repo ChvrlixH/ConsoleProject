@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Bank_application\Bank_application\bin\Debug\net6.0\Bank_application.exe
+C:\Users\Asus\source\repos\Bank_application\Bank_application\bin\Debug\net6.0\Bank_application.deps.json
+C:\Users\Asus\source\repos\Bank_application\Bank_application\bin\Debug\net6.0\Bank_application.runtimeconfig.json
+C:\Users\Asus\source\repos\Bank_application\Bank_application\bin\Debug\net6.0\Bank_application.dll
+C:\Users\Asus\source\repos\Bank_application\Bank_application\bin\Debug\net6.0\Bank_application.pdb
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\Bank_application.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\Bank_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\Bank_application.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\Bank_application.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\Bank_application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\Bank_application.dll
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\refint\Bank_application.dll
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\Bank_application.pdb
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\Bank_application.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Bank_application\Bank_application\obj\Debug\net6.0\ref\Bank_application.dll
