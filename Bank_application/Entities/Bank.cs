@@ -10,6 +10,6 @@ namespace Bank_application.Entities
     internal class Bank
     {
         public int Id;
-        public User? Users;
+        public User[] Users;
     }
 }
