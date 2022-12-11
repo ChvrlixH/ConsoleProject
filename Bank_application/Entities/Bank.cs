@@ -10,6 +10,11 @@ namespace Bank_application.Entities
     internal class Bank
     {
         public int Id;
-        public User[] Users;
+        public static User[] Users;
+        static Bank()
+        {
+             Users = new User[0];
+        }
     }
+  
 }

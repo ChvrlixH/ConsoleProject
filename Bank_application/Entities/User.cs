@@ -16,19 +16,31 @@ namespace Bank_application.Entities
         public string Password;
         public bool IsAdmin;     
         public bool IsBlocked;
-        public bool IsLogged;
+        int _id;
+        static Random random;
+        public static bool IsLogged;
 
         public User(string name, string surname, string email, string password, bool isAdmin)
         {
             Name = name;
+            _id = random.Next(10000,50000);
             Surname = surname;
             Balance = 0;
             Email = email;
             Password = password;
             IsAdmin = isAdmin;
             IsBlocked = false;
-            IsLogged = false;
+            Array.Resize(ref Bank.Users, Bank.Users.Length + 1);
+            Bank.Users[Bank.Users.Length - 1] = this;
         }
-     
+        static User()
+        {
+            IsLogged = false;
+            random = new Random();
+        }
+        public override string ToString()
+        {
+            return $"Ad: {Name} Soyad: {Surname} Email: {Email}";
+        }
     }
 }
