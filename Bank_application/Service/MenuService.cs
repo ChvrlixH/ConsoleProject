@@ -12,9 +12,7 @@ namespace Bank_application.Service
 {
     internal static class MenuService
     {
-        //static AccandBankService accountService = new AccandBankService();
-
-        public static User currentUser;
+         public static User currentUser;
 
     }
 }

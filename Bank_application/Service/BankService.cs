@@ -86,7 +86,7 @@ namespace Bank_application.Service
                     goto isadmin;
             }
 
-            User user = new User(name, surname, email, password, isadmin); //isadminde problem var
+            User user = new User(name, surname, email, password, isadmin); 
             Console.WriteLine("Istifadeci ugurla elave olundu");
             Console.WriteLine($"Id: {id} Ad: {name.Trim()}  Soyad: {surname.Trim()} Email {email.Trim()}");
 

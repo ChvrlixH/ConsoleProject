@@ -9,7 +9,7 @@ namespace Bank_application.utilities
 {
     internal interface Iuserservice
     {
-        double CheckBalance(User user);
+        double CheckBalance();
         void TopUpBalance();
         
         void ChangePassword();

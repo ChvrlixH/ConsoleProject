@@ -68,8 +68,9 @@ namespace Bank_application.Service
             }
         }
 
-        public double CheckBalance(User user)
+        public double CheckBalance()
         {
+            Console.WriteLine($"{MenuService.currentUser.Name} {MenuService.currentUser.Surname} {MenuService.currentUser.Balance}$");
             return MenuService.currentUser.Balance;
         }
 
